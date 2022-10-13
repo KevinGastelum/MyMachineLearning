@@ -1,6 +1,6 @@
 # My Machine Learning Projects
 ### [Spaceship Titanic Kaggle Competition [Click Here to View]](https://github.com/KevinGastelum/MyMachineLearning/blob/main/Spaceship_End_to_End.ipynb)
-<img src="images/4.Spaceship_end_to_end.png" height="850" >
+<img src="images/4.Spaceship_titanic.png" height="850" >
 
 ### [Crypto Price Predictor [Click Here to View]](https://github.com/KevinGastelum/MyMachineLearning/blob/main/CryptoPricePredictor.ipynb)
 <!--![](images/3.CryptoPredictor.png) -->
