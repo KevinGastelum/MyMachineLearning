@@ -1,5 +1,5 @@
 # My Machine Learning Projects
-### [Breast Cancer Detector V2[Click Here to View Code]](https://github.com/KevinGastelum/MyMachineLearning/blob/main/BreastCancerDetectorV2.ipynb)
+### [Breast Cancer Detector V2 [Click Here to View Code]](https://github.com/KevinGastelum/MyMachineLearning/blob/main/BreastCancerDetectorV2.ipynb)
 <img src="images/5.BreastCancerDetectorV2.png" height="850" >
 
 ### [Spaceship Titanic Kaggle Competition [Click Here to View Code]](https://github.com/KevinGastelum/MyMachineLearning/blob/main/Spaceship_End_to_End.ipynb)
